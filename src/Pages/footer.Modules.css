@@ -1,0 +1,240 @@
+.maindiv {
+  /* top: 8272px; */
+  /* left: 0px; */
+  width: 1920px;
+  height: 472px;
+  background: #313073 0% 0% no-repeat padding-box;
+  opacity: 1;
+  float: left;
+}
+
+.headings {
+  display: flex;
+  justify-content: space-evenly;
+  color: #ffffff;
+}
+
+.line {
+  /* top: 8406px; */
+  /* left: 141px; */
+  width: 5px;
+  height: 25px;
+  background: #29b6f6 0% 0% no-repeat padding-box;
+  opacity: 1;
+  border: none;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 9px;
+}
+
+.box1 {
+  /* top: 10px; */
+  /* left: 17px; */
+  width: 238px;
+  height: 260px;
+  opacity: 1;
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+}
+
+.details {
+  top: -24px;
+  left: 25px;
+  width: 205px;
+  height: 37px;
+  text-align: left;
+  font: normal normal normal 14px/20px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  position: relative;
+}
+
+.phone_call {
+  /* top: 8531px; */
+  /* left: 141px; */
+  width: 18px;
+  height: 26px;
+  /* background: transparent url('img/noun_phone call_4021442.png') 0% 0% no-repeat padding-box; */
+  opacity: 1;
+  vertical-align: middle;
+}
+
+.footerEmail {
+  width: 15px;
+  height: 14px;
+  vertical-align: middle;
+  /* background: transparent url('img/noun_Email_4270634.png') 0% 0% no-repeat padding-box; */
+  opacity: 1;
+}
+
+.numbers {
+  top: -30px;
+  left: 25px;
+  /* border:  solid 2px;
+border-color: snow; */
+  width: 170px;
+  height: 77px;
+  text-align: left;
+  font: normal normal normal 14px/30px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+
+  position: relative;
+}
+
+.mail {
+  /* top: 8649px; */
+  /* left: 177px; */
+  width: 145px;
+  height: 17px;
+  text-align: left;
+  font: normal normal normal 14px/30px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  padding-left: 9px;
+}
+
+.box2 {
+  /* top: 8406px; */
+  /* left: 614px; */
+  width: 266px;
+  height: 262px;
+  opacity: 1;
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+}
+
+.footerlocation {
+  width: 142px;
+height: 17px;
+text-align: left;
+font: normal normal normal 14px/5px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+/* padding-left: 20px; */
+}
+.footernum{
+  padding-left: 10px;
+  color: #FFFFFF;
+}
+.box3 {
+  /* top: 8406px; */
+  /* left: 1114px; */
+  width: 68px;
+  height: 210px;
+  opacity: 1;
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+}
+
+.map {
+  /* top: 8452px; */
+  /* left: 614px; */
+  width: 266px;
+  height: 132px;
+  /* background: transparent url('img/Simple_world_map.png') 0% 0% no-repeat padding-box; */
+  opacity: 0.4;
+}
+
+.footeraboutus {
+  width: 54px;
+height: 17px;
+text-align: left;
+font: normal normal normal 14px/5px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+line-height: 40px;
+}
+
+.box4 {
+  /* top: 8406px; */
+  /* left: 1417px; */
+  width: 360px;
+  height: 132px;
+  opacity: 1;
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+}
+
+.contact {
+  /* top: 8451px; */
+  /* left: 1422px; */
+  width: 100px;
+  height: 17px;
+  text-align: left;
+  font: normal normal normal 14px/5px Roboto;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.footericons{
+   display: flex;
+  justify-content: space-between;
+ 
+  /* width: 45px; */
+height: 45px;
+/* background: transparent url('img/hollow-cut-google.png') 0% 0% no-repeat padding-box; */
+opacity: 1;
+}
+
+
+.footercopy {
+  /* top: 8714px; */
+  /* left: 0px; */
+  width: 1920px;
+  height: 30px;
+  background: #212121 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.footercopyright {
+  /* top: 8722px;
+left: 829px; */
+  /* width: 262px;
+height: 14px; */
+  text-align: center;
+  /* 
+
+opacity: 1; */
+  color: #78909c;
+  letter-spacing: 0px;
+  font: normal normal normal 12px/30px Roboto;
+}
+
+.footerlocationicon {
+  width: 16px;
+  height: 21px;
+  /* background: transparent url("./src/Logos/Loacation/Loacation@2x.png") 0% 0% no-repeat padding-box; */
+  opacity: 1;
+  
+  /* vertical-align: middle; */
+/* background: #FFFFFF 0% 0% no-repeat padding-box; */
+/* padding-left: 10px; */
+}
+
+.footerimage1 {
+  width: 214px;
+height: 51px;
+/* background: transparent url('./public/Logos/Footer/LOGO/LOGO@2x.PNG') 0% 0% no-repeat padding-box; */
+opacity: 1;  
+   top: 8px;
+  left: -680px;
+  position: relative; 
+  padding: 5px; 
+}
+
+.foot {
+  width: 118px;
+  height: 25px;
+  text-align: left;
+  font: normal normal medium 18px/5px Poppins;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}

@@ -1,0 +1,50 @@
+.about {
+  margin-top: 200px;
+  height: 853px;
+  width: 1920px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  gap: 77px;
+  /* border: 2px solid black; */
+  background-color: #ffffff;
+}
+.about h1 {
+  font-family: var(--abril-font);
+  font-size: var(--headfontsize);
+  color: var(--headcolor);
+  width: 540px;
+  height: 133px;
+}
+span {
+  color: var(--headred);
+}
+.abt-frst {
+  font-family: var(--poppinsSemi);
+  font-size: 18px;
+  border-left: 5px solid var(--moreColor);
+  color: var(--moreColor);
+  width: 25px;
+}
+p {
+  font-family: var(--robo);
+  font-size: var(--roboSize);
+}
+.about > div {
+  margin-top: 100px;
+  height: 733px;
+  width: 650px;
+}
+span#blue-sucess {
+  color: var(--moreColor);
+}
+h1.mission-img {
+  background-image: url("../Assets/Images/dgif.png");
+  height: 330px;
+  width: 950px;
+  color: white;
+  text-align: start;
+}
+div.mission-para {
+  width: 950px;
+}

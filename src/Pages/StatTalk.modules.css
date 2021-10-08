@@ -1,0 +1,22 @@
+.talk-per {
+  display: grid;
+  grid-template-columns: repeat(2, 356px);
+  grid-template-rows: 1fr 1fr;
+  justify-content: center;
+  background-color: white !important;
+}
+.talk-per > div {
+  margin-top: 200px;
+  height: 300px;
+  text-align: center;
+}
+.talk-per > div > h3 {
+  font-size: 38px;
+  font-family: var(--abril-font);
+  color: #212121;
+}
+.talk-per > div > h1 {
+  font-size: 50px;
+  font-family: var(--abril-font);
+  color: #cb2229;
+}

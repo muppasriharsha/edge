@@ -1,0 +1,42 @@
+.nav-bar {
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+  height: 4em;
+  width: 100%;
+  /* position:fixed; */
+  top: 0px;
+  background-color: aliceblue;
+}
+.nav-bar {
+  position: sticky;
+}
+ul.link-items {
+  display: flex;
+  width: 60%;
+}
+img.edge-logo {
+  width: 13.36625em;
+  height: 51px;
+  margin-left: 13.7%;
+}
+li {
+  width: 1.5rem;
+  margin-right: 50px;
+  list-style-type: none;
+  display: inline-block;
+}
+a {
+  font-size: 1.125rem;
+  transition: font-size 0.5s;
+  font-family: "Poppins", sans-serif;
+}
+a:hover {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+ul.link-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

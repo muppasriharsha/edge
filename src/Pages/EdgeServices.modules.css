@@ -1,0 +1,58 @@
+.Services {
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  flex-direction: row;
+}
+.Services > div.Serv-photo-div {
+  height: 853px;
+  width: 916.4px;
+  background-color: #eeeeee;
+}
+.Services > div img {
+  margin: 101px 114px 100.4px 113px;
+  height: 626px;
+  width: 715px;
+}
+.Services > div h2 {
+  font-family: var(--abril-font);
+  font-size: var(--headfontsize);
+  color: var(--headcolor);
+  width: 577px;
+  height: 133px;
+  text-align: left;
+}
+.Services > a {
+  text-align: left;
+  border-left: 2px solid black;
+}
+div.servcice-mat {
+  margin-left: 53.3px;
+  margin-top: 120px;
+}
+div.servcice-mat > p {
+  word-break: keep-all;
+  font-family: var(--robo);
+  font-size: var(--roboSize);
+  width: 810px;
+  text-align: left;
+}
+p.edge-head {
+  width: 25px !important;
+}
+button.bttns {
+  width: 159px;
+  height: 50px;
+  align: right;
+  background-color: #cb2229;
+  color: white;
+  border-radius: 7px;
+  opacity: 1;
+  margin-left: 700px;
+}
+div.port {
+  background-color: white !important;
+}
+div.shake {
+  margin-left: 100px;
+}

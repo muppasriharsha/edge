@@ -1,0 +1,188 @@
+.contact{
+    top: 6998px;
+left: 0px;
+width: 1920px;
+height: 525px;
+/* background: #313073 0% 0% no-repeat padding-box; */
+opacity: 1;
+}
+.abc{
+    top: 7118px;
+left: 160px;
+width: 88px;
+height: 25px;
+text-align: left;
+font: normal normal medium 18px/5px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.head{
+    
+margin-left: 140px;
+padding-top: 50px;
+
+}
+
+.touch{
+    top: 7144px;
+    left: 140px;
+    width: 350px;
+    height: 73px;
+    text-align: left;
+    font: normal normal normal 54px/60px Abril Fatface;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.touchdes{
+    top: 7237px;
+left: 140px;
+width: 650px;
+/* height: 203px;  */
+/* text-align: left; */
+font: normal normal normal 18px/24px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 8;
+  -webkit-box-orient: vertical;  
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.contactlocation{
+    top: 7173px;
+left: 969px;
+width: 240px;
+height: 187px;
+opacity: 1;
+ text-align: center;
+
+}
+
+.contactimage{
+    top: 7173px;
+left: 1063px;
+width: 42px;
+height: 55px; 
+/* background: transparent url('img/noun_Location_1631769.png') 0% 0% no-repeat padding-box; */
+opacity: 1;
+text-align: center;
+ } 
+ .contactour{
+    top: 7257px;
+left: 1003px;
+/* width: 162px; */
+height: 34px; 
+/* text-align: center; */
+font: normal normal bold 28px/5px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+padding-top: 50px;
+opacity: 1;
+} 
+
+.contactaddress{
+    top: 7308px;
+left: 969px;
+/* width: 225px; */
+/* height: 52px; */
+/* text-align: center; */
+font: normal normal normal 18px/30px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.contactemail{
+    top: 7183px;
+left: 1300px;
+width: 186px;
+height: 147px;
+opacity: 1;
+text-align: center;
+}
+
+.contactimg{
+    top: 7183px;
+    left: 1369px;
+    width: 48px;
+    height: 44px;
+    /* background: transparent url('img/noun_Email_4270634.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+ } 
+
+.contactus{
+    top: 7257px;
+left: 1340px;
+/* width: 106px; */
+height: 34px;
+/* text-align: center; */
+font: normal normal bold 28px/5px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+padding-top: 60px;
+}
+
+.contactmail{
+    top: 7308px;
+left: 1300px;
+width: 186px;
+height: 22px;
+/* text-align: center; */
+font: normal normal normal 18px/30px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+
+}
+
+
+.contactnumber{
+    top: 7173px;
+left: 1586px;
+width: 200px;
+height: 217px;
+opacity: 1;
+text-align: center;
+}
+
+.contactphone{
+    top: 7173px;
+    left: 1661px;
+    width: 37px;
+    height: 54px;
+    /* background: transparent url('img/noun_phone call_4021442.png') 0% 0% no-repeat padding-box; */
+    opacity: 1;
+}
+.contactcall{
+    top: 7257px;
+left: 1637px;
+/* width: 86px; */
+height: 34px;
+/* text-align: center; */
+font: normal normal bold 28px/5px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+padding-top: 50px;
+opacity: 1;
+}
+
+.contactnum{
+    top: 7308px;
+left: 1586px;
+/* width: 188px; */
+height: 82px;
+/* text-align: center; */
+font: normal normal normal 18px/30px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}

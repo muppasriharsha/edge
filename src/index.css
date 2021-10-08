@@ -1,0 +1,29 @@
+:root {
+  --poppinsSemi: "Poppins", sans-serif;
+  --abril-font: "Abril Fatface", cursive;
+  --headfontsize: 54px;
+  --headcolor: #313073;
+  --headred: #cb2229;
+  --h2fontsize: 28px;
+  --morefont:"Poppins", sans-serif;
+  --moreColor:#005FFF;
+  --moreSize:14px;
+  --robo:'Roboto', sans-serif;
+  --roboSize:18px;
+}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

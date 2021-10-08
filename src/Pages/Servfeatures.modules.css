@@ -1,0 +1,26 @@
+.serv-features {
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 1743px;
+}
+.serv-features > div {
+  width: 1920px;
+  height: 770px;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  text-align: left;
+  justify-content: space-evenly;
+}
+.serv-features > div div {
+  width: 536px;
+  height: 770px;
+}
+.serv-features > div img {
+  width: 388px;
+  height: 370px;
+}
+button.servbtn {
+  margin-left: 0px !important;
+}
