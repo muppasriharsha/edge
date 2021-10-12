@@ -3,7 +3,7 @@ import "./EdgeServices.modules.css";
 import shakehand from "../Assets/Images/shakehand.png";
 export default function Carrers() {
   return (
-    <div className="Services carrers" id="Carrers">
+    <div className="Services carrers" style={{height:"800px"}} id="Carrers">
       <div className="servcice-mat ">
         <p className="abt-frst edge-head">Portfolio</p>
         <h2>

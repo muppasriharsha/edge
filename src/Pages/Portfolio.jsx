@@ -3,7 +3,7 @@ import "./EdgeServices.modules.css";
 import Group from "../Assets/Images/Group.png";
 function Portfolio() {
   return (
-    <div className="Services" id="Carrers">
+    <div className="Services" style={{height:"700px"}} id="Carrers">
       <div className="Serv-photo-div port">
         <img src={Group} alt="christina-port" />
       </div>

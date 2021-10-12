@@ -1,33 +1,32 @@
-.contact{
-    top: 6998px;
-left: 0px;
+.contact3{
+    
 width: 1920px;
 height: 525px;
-/* background: #313073 0% 0% no-repeat padding-box; */
+background: #313073 0% 0% no-repeat padding-box;
 opacity: 1;
+padding-right: 70px;
 }
 .abc{
-    top: 7118px;
-left: 160px;
 width: 88px;
 height: 25px;
-text-align: left;
+
 font: normal normal medium 18px/5px Poppins;
 letter-spacing: 0px;
 color: #FFFFFF;
 opacity: 1;
 }
 
-.head{
+.contacthead{
     
-margin-left: 140px;
+margin-left: -1530px;
 padding-top: 50px;
+position: relative;
+
 
 }
 
 .touch{
-    top: 7144px;
-    left: 140px;
+    
     width: 350px;
     height: 73px;
     text-align: left;
@@ -38,8 +37,7 @@ padding-top: 50px;
 }
 
 .touchdes{
-    top: 7237px;
-left: 140px;
+    
 width: 650px;
 /* height: 203px;  */
 /* text-align: left; */
@@ -57,18 +55,16 @@ overflow: hidden;
 }
 
 .contactlocation{
-    top: 7173px;
-left: 969px;
+   
 width: 240px;
 height: 187px;
 opacity: 1;
  text-align: center;
+ /* line-height: 50px; */
 
 }
 
 .contactimage{
-    top: 7173px;
-left: 1063px;
 width: 42px;
 height: 55px; 
 /* background: transparent url('img/noun_Location_1631769.png') 0% 0% no-repeat padding-box; */
@@ -76,8 +72,6 @@ opacity: 1;
 text-align: center;
  } 
  .contactour{
-    top: 7257px;
-left: 1003px;
 /* width: 162px; */
 height: 34px; 
 /* text-align: center; */
@@ -89,8 +83,7 @@ opacity: 1;
 } 
 
 .contactaddress{
-    top: 7308px;
-left: 969px;
+  
 /* width: 225px; */
 /* height: 52px; */
 /* text-align: center; */
@@ -98,20 +91,20 @@ font: normal normal normal 18px/30px Roboto;
 letter-spacing: 0px;
 color: #FFFFFF;
 opacity: 1;
+padding-top: 40px;
 }
 
 .contactemail{
-    top: 7183px;
-left: 1300px;
+   
 width: 186px;
 height: 147px;
 opacity: 1;
 text-align: center;
+
 }
 
 .contactimg{
-    top: 7183px;
-    left: 1369px;
+    
     width: 48px;
     height: 44px;
     /* background: transparent url('img/noun_Email_4270634.png') 0% 0% no-repeat padding-box; */
@@ -119,8 +112,7 @@ text-align: center;
  } 
 
 .contactus{
-    top: 7257px;
-left: 1340px;
+    
 /* width: 106px; */
 height: 34px;
 /* text-align: center; */
@@ -132,8 +124,7 @@ padding-top: 60px;
 }
 
 .contactmail{
-    top: 7308px;
-left: 1300px;
+   
 width: 186px;
 height: 22px;
 /* text-align: center; */
@@ -141,13 +132,13 @@ font: normal normal normal 18px/30px Roboto;
 letter-spacing: 0px;
 color: #FFFFFF;
 opacity: 1;
+padding-top: 40px;
 
 }
 
 
 .contactnumber{
-    top: 7173px;
-left: 1586px;
+    
 width: 200px;
 height: 217px;
 opacity: 1;
@@ -155,16 +146,14 @@ text-align: center;
 }
 
 .contactphone{
-    top: 7173px;
-    left: 1661px;
+    
     width: 37px;
     height: 54px;
     /* background: transparent url('img/noun_phone call_4021442.png') 0% 0% no-repeat padding-box; */
     opacity: 1;
 }
 .contactcall{
-    top: 7257px;
-left: 1637px;
+   
 /* width: 86px; */
 height: 34px;
 /* text-align: center; */
@@ -176,8 +165,7 @@ opacity: 1;
 }
 
 .contactnum{
-    top: 7308px;
-left: 1586px;
+    
 /* width: 188px; */
 height: 82px;
 /* text-align: center; */
@@ -185,4 +173,5 @@ font: normal normal normal 18px/30px Roboto;
 letter-spacing: 0px;
 color: #FFFFFF;
 opacity: 1;
+padding-top: 40px;
 }

@@ -3,7 +3,7 @@ import "./EdgeServices.modules.css";
 import christina from "../Assets/Images/christina.png";
 export default function EdgeServices() {
   return (
-    <div className="Services" id="Services">
+    <div className="Services"  style={{height:"900px"}} id="Services">
       <div className="Serv-photo-div">
         <img src={christina} alt="christina" />
       </div>

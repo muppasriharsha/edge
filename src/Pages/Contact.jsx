@@ -3,14 +3,14 @@ import "./contact.Modules.css";
 
 const Contact = () => {
   return (
-    <div className="contact">
-      <div className="head">
-        {/* <hr className="line" /> */}
+    <div className="contact3">
+      <div className="contacthead">
+        <hr className="line" />
          <span className="abc">CONTACT</span>
       </div>
       <div style={{ display: "flex", justifyContent: "space-evenly" }}>
         <div>
-          <div className="ouch">Get in Touch</div>
+          <div className="touch">Get in Touch</div>
           <br />
           <div className="touchdes">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
@@ -51,7 +51,7 @@ const Contact = () => {
 
           <div className="contactour">Our Location</div>
           <div className="contactaddress">
-            {" "}
+            
             5055 Keller Springs Rd <br />
             Suite 150 Addison, TX 75001
           </div>
@@ -74,7 +74,6 @@ const Contact = () => {
             alt="muppa"
             className="contactphone"
           />
-          {/* <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/> */}
           <div className="contactcall">Call us</div>
           <div className="contactnum">
             USA + 1 855 585 7344 India + 91 40 4286 5599 UAE + 971 4 3132770

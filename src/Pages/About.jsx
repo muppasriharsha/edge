@@ -3,7 +3,7 @@ import "./About.modules.css";
 import dgif from "../Assets/Images/dgif.png";
 export default function About() {
   return (
-    <div className="about" id="About">
+    <div className="about"   id="About">
       <div className="abt">
         <p className="abt-frst">ABOUT</p>
         <h1>
